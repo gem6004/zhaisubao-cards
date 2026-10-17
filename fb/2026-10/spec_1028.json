@@ -1,0 +1,14 @@
+{
+  "dwg_no": "ACI-1028",
+  "tag": "EXAM",
+  "headline": ["PDCA 的 C，", "代表的是什麼？"],
+  "subtitle": "營造工程管理・品質管理章節",
+  "lead": "PDCA 是「循環」不是「流程」",
+  "boxes": [
+    {"code": "P · PLAN", "title": "計畫", "note": "訂目標、標準與做法"},
+    {"code": "D · DO", "title": "執行", "note": "照計畫施作，並留下紀錄"},
+    {"code": "C · CHECK", "title": "查核", "note": "把執行結果和標準比對，找出差異", "highlight": true},
+    {"code": "A · ACT", "title": "處置", "note": "針對差異矯正，把有效做法標準化"}
+  ],
+  "big": {"value": "C", "label": "查核 Check", "caption": "答案 (2)・(1) 控制是陷阱選項"}
+}

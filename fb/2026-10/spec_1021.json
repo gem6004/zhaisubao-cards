@@ -1,0 +1,37 @@
+{
+  "dwg_no": "ACI-1021",
+  "tag": "EXAM",
+  "headline": [
+    "ES＝5、LS＝9，",
+    "總浮時是幾天？"
+  ],
+  "subtitle": "建築工程管理乙級・學科排程題型",
+  "lead": "TF＝LS－ES＝9－5＝4 天，觀念懂了，計算只要三秒",
+  "boxes": [
+    {
+      "code": "TF = LS - ES",
+      "title": "總浮時 TF",
+      "note": "最多可以晚幾天開始，而不會讓整個工程延後完工"
+    },
+    {
+      "code": "TF = LF - EF",
+      "title": "用完成時間算",
+      "note": "兩種算法結果會一樣"
+    },
+    {
+      "code": "TF = 0",
+      "title": "要徑 Critical Path",
+      "note": "要徑上任一作業延誤，完工日就跟著延後"
+    },
+    {
+      "code": "FF ≤ TF",
+      "title": "自由浮時 FF",
+      "note": "不影響後續作業最早開始的寬裕時間"
+    }
+  ],
+  "big": {
+    "value": "4 天",
+    "label": "總浮時 TF",
+    "caption": "答案 (1)\nTF＝LS－ES＝9－5"
+  }
+}
