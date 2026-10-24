@@ -1,0 +1,38 @@
+{
+  "dwg_no": "ACI-1104",
+  "tag": "D-4",
+  "headline": [
+    "11/8 學科剩 4 天，",
+    "時間要怎麼分配？"
+  ],
+  "subtitle": "考前衝刺・模擬考計時練習",
+  "lead": "單選 60 題＋複選 20 題，先跑一次完整模擬考",
+  "boxes": [
+    {
+      "code": "01 SINGLE",
+      "title": "單選 60 題",
+      "note": "每題 1 分，約 45 秒一題，先拚穩"
+    },
+    {
+      "code": "02 MULTI",
+      "title": "複選 20 題",
+      "note": "每題 2 分，全對才給分，慢慢看"
+    },
+    {
+      "code": "03 SKIP",
+      "title": "卡住先跳過",
+      "note": "做記號，最後再回頭處理"
+    },
+    {
+      "code": "04 REVIEW",
+      "title": "留時間檢查",
+      "note": "確認每一題都有作答，答錯不倒扣",
+      "highlight": true
+    }
+  ],
+  "big": {
+    "value": "D-4",
+    "label": "計時跑一次 80 題",
+    "caption": "aci-easylearn.com\n免費線上測驗"
+  }
+}

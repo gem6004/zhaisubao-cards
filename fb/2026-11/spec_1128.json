@@ -1,0 +1,33 @@
+{
+  "dwg_no": "ACI-1128",
+  "tag": "LAW",
+  "headline": [
+    "營造業可以",
+    "接室內裝修設計嗎？"
+  ],
+  "subtitle": "建築物室內裝修管理辦法 第 4、5 條",
+  "lead": "從業者有三種，業務範圍各不相同",
+  "boxes": [
+    {
+      "code": "ARCHITECT",
+      "title": "開業建築師",
+      "note": "得從事室內裝修設計業務"
+    },
+    {
+      "code": "CONTRACTOR",
+      "title": "營造業",
+      "note": "得從事室內裝修施工業務",
+      "highlight": true
+    },
+    {
+      "code": "INTERIOR",
+      "title": "室內裝修業",
+      "note": "得從事室內裝修設計或施工業務"
+    }
+  ],
+  "big": {
+    "value": "施工",
+    "label": "營造業的業務範圍",
+    "caption": "答案 (2)\n以最新法規為準"
+  }
+}

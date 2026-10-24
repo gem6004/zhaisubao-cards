@@ -1,0 +1,38 @@
+{
+  "dwg_no": "ACI-1111",
+  "tag": "NEXT",
+  "headline": [
+    "考完了，",
+    "下一步做什麼？"
+  ],
+  "subtitle": "考後整理・錯題本使用法",
+  "lead": "趁記憶還在，把沒把握的觀念補起來",
+  "boxes": [
+    {
+      "code": "12/04",
+      "title": "學科成績公告",
+      "note": "技檢中心網站查詢，成績單 12/8 寄送"
+    },
+    {
+      "code": "WRONG BOOK",
+      "title": "錯題本複習",
+      "note": "同一題連續答對 2 次才算掌握",
+      "highlight": true
+    },
+    {
+      "code": "BY SECTION",
+      "title": "依工作項目練習",
+      "note": "找出最弱的工作項目，集中補強"
+    },
+    {
+      "code": "2027/01/04",
+      "title": "下一梯次報名",
+      "note": "116 年第一梯次 1/4～1/13 報名"
+    }
+  ],
+  "big": {
+    "value": "FREE",
+    "label": "線上測驗持續免費",
+    "caption": "aci-easylearn.com"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "dwg_no": "ACI-1118",
+  "tag": "QC",
+  "headline": [
+    "缺失這麼多，",
+    "先改哪一個？"
+  ],
+  "subtitle": "建築工程管理・品管手法",
+  "lead": "把缺失依次數排序，先處理影響最大的少數項目",
+  "boxes": [
+    {
+      "code": "PARETO",
+      "title": "柏拉圖",
+      "note": "依次數由大到小排列＋累積百分比，找主要問題",
+      "highlight": true
+    },
+    {
+      "code": "FISHBONE",
+      "title": "特性要因圖",
+      "note": "又稱魚骨圖，追查問題的可能原因"
+    },
+    {
+      "code": "HISTOGRAM",
+      "title": "直方圖",
+      "note": "看數據的分布狀況"
+    },
+    {
+      "code": "CONTROL CHART",
+      "title": "管制圖",
+      "note": "判斷製程是否穩定、有無異常"
+    }
+  ],
+  "big": {
+    "value": "80/20",
+    "label": "柏拉圖 Pareto",
+    "caption": "答案 (3)\n少數項目造成多數問題"
+  }
+}

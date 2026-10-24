@@ -1,0 +1,33 @@
+{
+  "dwg_no": "ACI-1114",
+  "tag": "EXAM",
+  "headline": [
+    "數量算錯了，",
+    "風險誰來扛？"
+  ],
+  "subtitle": "營造工程管理・契約計價方式",
+  "lead": "看計價方式，就知道數量風險落在誰身上",
+  "boxes": [
+    {
+      "code": "LUMP SUM",
+      "title": "總價承攬",
+      "note": "總價固定，數量差異多由承包商承擔",
+      "highlight": true
+    },
+    {
+      "code": "UNIT PRICE",
+      "title": "實作實算",
+      "note": "依單價乘實際數量計價，數量風險在業主"
+    },
+    {
+      "code": "COST PLUS",
+      "title": "成本加酬金",
+      "note": "實際成本加管理費，業主風險最高"
+    }
+  ],
+  "big": {
+    "value": "總價",
+    "label": "承包商承擔數量風險",
+    "caption": "答案 (1)\n常見題型"
+  }
+}

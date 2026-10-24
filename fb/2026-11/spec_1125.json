@@ -1,0 +1,38 @@
+{
+  "dwg_no": "ACI-1125",
+  "tag": "COST",
+  "headline": [
+    "CPI 0.89、SPI 0.8，",
+    "工程現在怎麼了？"
+  ],
+  "subtitle": "營造工程管理・實獲值管理 EVM",
+  "lead": "PV 1,000 萬、EV 800 萬、AC 900 萬",
+  "boxes": [
+    {
+      "code": "CPI = EV / AC",
+      "title": "成本績效指標",
+      "note": "800 ÷ 900 ≈ 0.89，小於 1 表示超支"
+    },
+    {
+      "code": "SPI = EV / PV",
+      "title": "時程績效指標",
+      "note": "800 ÷ 1,000 = 0.8，小於 1 表示落後"
+    },
+    {
+      "code": "CV = EV - AC",
+      "title": "成本差異",
+      "note": "−100 萬，負值代表超支"
+    },
+    {
+      "code": "SV = EV - PV",
+      "title": "時程差異",
+      "note": "−200 萬，負值代表落後",
+      "highlight": true
+    }
+  ],
+  "big": {
+    "value": "< 1",
+    "label": "超支＋落後",
+    "caption": "答案 (2)\n指標小於 1 都是警訊"
+  }
+}
