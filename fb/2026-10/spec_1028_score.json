@@ -1,0 +1,15 @@
+{
+  "dwg_no": "ACI-1028",
+  "tag": "NOTICE",
+  "headline": ["115年第2梯次術科，", "成績可以查了！"],
+  "subtitle": "建築工程管理 06900・營造工程管理 18000",
+  "lead": "線上查詢四步驟，一張圖看懂",
+  "boxes": [
+    {"code": "STEP 01", "title": "上技檢中心網站", "note": "wdasec.gov.tw"},
+    {"code": "STEP 02", "title": "技能檢定", "note": "→ 檢定資訊查詢與下載"},
+    {"code": "STEP 03", "title": "檢定資訊查詢", "note": "→ 術科辦理單位及成績查詢", "highlight": true},
+    {"code": "STEP 04", "title": "輸入個人資料", "note": "成績、補發成績單都在這"}
+  ],
+  "big": {"value": "TEL", "label": "04-2259-8800", "caption": "語音查詢專線\n不方便上網也能查"},
+  "url": "wdasec.gov.tw"
+}
